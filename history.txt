@@ -1,0 +1,9 @@
+dsfsdf:0
+цйукйцу:10
+иван:0
+Иван:10
+& C:/Users/kisil/AppData/Local/Microsoft/WindowsApps/python3.12.exe c:/Users/kisil/Desktop/kkursor/atest/Project1/game.py:0
+sdasd:0
+цуцу:0
+ZZY:0
+иван:10
